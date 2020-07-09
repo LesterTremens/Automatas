@@ -1,0 +1,31 @@
+0
+6
+aabaa
+0 X 0 X R
+0 Y 0 Y R
+0 a 1 X R
+0 b 3 Y R
+0 B 5 B L
+1 B 2 X L
+1 a 1 a R
+1 b 1 b R
+1 X 1 X R
+1 Y 1 Y R
+3 B 4 Y L
+3 a 3 a R
+3 b 3 b R
+3 X 3 X R
+3 Y 3 Y R
+2 B 0 B R
+2 a 2 a L
+2 b 2 b L
+2 X 2 X L
+2 Y 2 Y L
+4 B 0 B R 
+4 a 4 a L
+4 b 4 b L
+4 X 4 X L
+4 Y 4 Y L
+5 X 5 X L
+5 Y 5 Y L
+5 B 6 B R

@@ -1,0 +1,16 @@
+S -> A E
+S -> B D
+S -> A B
+S -> B A
+E -> B C
+D -> C A
+A -> a
+A -> B F
+F -> S B
+V -> a
+B -> b
+C -> W G
+G -> W C
+C -> W W
+W -> c
+C -> b

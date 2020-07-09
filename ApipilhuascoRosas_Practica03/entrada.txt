@@ -1,0 +1,19 @@
+0
+8
+aabaa
+0 a 1 X R
+0 b 6 X L
+1 a 1 a R
+1 b 2 b R
+2 a 2 a R
+2 B 3 B L
+2 X 3 X L
+3 a 4 X L
+4 a 4 a L
+4 b 5 b L
+5 a 5 a L
+5 X 0 X R
+6 X 6 X L
+6 B 7 B R
+7 X 7 X R
+7 B 8 B L
